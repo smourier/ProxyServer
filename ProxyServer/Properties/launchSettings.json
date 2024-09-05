@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProxyServer": {
+      "commandName": "Project",
+      "commandLineArgs": "http://localhost:8555/"
+    }
+  }
+}
